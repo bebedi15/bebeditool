@@ -1,4 +1,4 @@
-![Image Downloader logo](https://github.com/bebedi15/urltoimage/blob/main/urltoimage.png?raw=true)
+![Image Downloader logo](https://github.com/bebedi15/bebeditool/blob/main/bebeditool.png?raw=true)
 
 
 <div align='center'>
