@@ -8,10 +8,14 @@
 
   
   <img src='https://img.shields.io/badge/License-MIT-blue.svg'>
+  <a href="https://linksta.cc/@Bebedi"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
+
   
 
 
 </div>
+
+
 
 
 # 🛠️ Bebedi Tool
