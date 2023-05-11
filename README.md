@@ -41,6 +41,8 @@ The group username scraper feature allows users to scrape the usernames of membe
 
 The username generator feature creates random usernames that are avaible to use.
 
+## Help
+
 ### ❗ Requirements
 
 - colorama
