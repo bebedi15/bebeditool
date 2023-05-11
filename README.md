@@ -27,11 +27,11 @@ Bebedi Tool is a Python open source code that includes several features for Robl
 
 ### 🔍 Group Finder
 
-The group finder feature allows users to find groups on Roblox based on specific search criteria, such as keyword, minimum and maximum member count, and language. The tool can automatically use a proxy pool or the user can provide their own proxies.
+The group finder feature allows users to find groups on Roblox without an owner that they can claim. Users can search for groups based on specific search criteria, such as keyword, minimum and maximum member count, and language. The tool can automatically use a proxy pool or the user can provide their own proxies.
 
 ### 🔍 Group Finder v2
 
-The group finder v2 feature is faster than the original group finder, but it only uses the user's provided proxies, which may slow down the network. The user must provide their proxies in the proxies.txt file.
+The group finder v2 feature is faster than the original group finder, which may slow down the network. The user must provide their proxies in the proxies.txt file.
 
 ### 📜 Group Username Scraper
 
@@ -39,7 +39,7 @@ The group username scraper feature allows users to scrape the usernames of membe
 
 ### 💡 Username Generator
 
-The username generator feature creates random usernames based on user-defined parameters, such as length, number of words, and inclusion of specific characters.
+The username generator feature creates random usernames that are avaible to use.
 
 ## Requirements
 
@@ -50,3 +50,11 @@ The username generator feature creates random usernames based on user-defined pa
 ## Output
 
 The output for each feature is saved in the output folder.
+
+## 🤝 Contributing
+
+If you find a bug or have an idea for a feature, feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
