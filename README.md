@@ -16,7 +16,7 @@
 
 # 🛠️ Bebedi Tool
 
-Bebedi Tool is a Python open source code that includes several features for Roblox users. This tool was made for fun and it includes the following features:
+Bebedi Tool is a Python open source code that includes several features for Roblox users (The code is a mess). This tool was made for fun and it includes the following features:
 
 - 🔍 Group Finder
 - 🔍 Group Finder v2
