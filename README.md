@@ -41,13 +41,13 @@ The group username scraper feature allows users to scrape the usernames of membe
 
 The username generator feature creates random usernames that are avaible to use.
 
-## Requirements
+### ❗ Requirements
 
 - colorama
 - concurrent-futures
 - requests
 
-## Setup
+### 🛠️ Setup
 
 To use Bebedi Tool, you'll need to follow these steps:
 
@@ -58,7 +58,7 @@ To use Bebedi Tool, you'll need to follow these steps:
 
 Once you've completed these steps, you should be able to use Bebedi Tool and its features.
 
-## Output
+### 📒 Output
 
 The output for each feature is saved in the output folder.
 
