@@ -47,6 +47,17 @@ The username generator feature creates random usernames that are avaible to use.
 - concurrent-futures
 - requests
 
+## Setup
+
+To use Bebedi Tool, you'll need to follow these steps:
+
+1. Clone the repository to your local machine using `git clone https://github.com/bebedi15/bebeditool.git`.
+2. Navigate to the cloned repository on your local machine using `cd bebeditool`.
+3. Install the required packages by running `pip install -r requirements.txt` in your terminal or command prompt. This will install the packages `colorama`, `concurrent-futures`, and `requests`.
+4. Start the program by running `py main.py` in your terminal or command prompt.
+
+Once you've completed these steps, you should be able to use Bebedi Tool and its features.
+
 ## Output
 
 The output for each feature is saved in the output folder.
