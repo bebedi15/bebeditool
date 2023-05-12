@@ -31,7 +31,7 @@ Bebedi Tool is a Python open source code that includes several features for Robl
 
 ### 🔍 Group Finder
 
-The group finder feature allows users to find groups on Roblox without an owner that they can claim. Users can search for groups based on specific search criteria, such as keyword, minimum and maximum member count, and language. The tool can automatically use a proxy pool or the user can provide their own proxies.
+The group finder feature allows users to find groups on Roblox without an owner that they can claim. The tool can automatically use a proxy pool.
 
 ### 🔍 Group Finder v2
 
