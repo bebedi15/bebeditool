@@ -68,6 +68,11 @@ Once you've completed these steps, you should be able to use Bebedi Tool and its
 
 The output for each feature is saved in the output folder.
 
+## 😓 Help
+
+**If you need Help, contact me!!**
+**Discord: "Bebedi"**
+
 ## 🤝 Contributing
 
 If you find a bug or have an idea for a feature, feel free to open an issue or submit a pull request.
